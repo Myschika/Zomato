@@ -1,9 +1,8 @@
 # Zomato
 
-<h2>Proect Description</h2>
+<h2>Project Description</h2>
 Analyzed the business performance of restaurants and customers registered in the service provided by Zomato, a restaurant aggregator and food delivery company. 
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
